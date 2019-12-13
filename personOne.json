@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "message": "Basarili",
+  "users": [
+    {
+      "id": 0,
+      "fragmentId":1,
+      "name": "Simon Parsons",
+      "company": "ICterra"
+    },
+    {
+      "id": 1,
+      "fragmentId":1,
+      "name": "Bessie Rush",
+      "company": "ICterra"
+    },
+    {
+      "id": 2,
+      "fragmentId":1,
+      "name": "Gwen Malone",
+      "company": "ICterra"
+    },
+    {
+      "id": 3,
+      "fragmentId":1,
+      "name": "Schroeder Bullock",
+      "company": "ICterra"
+    },
+    {
+      "id": 4,
+      "fragmentId":1,
+      "name": "Murray Carney",
+      "company": "ICterra"
+    },
+    {
+      "id": 5,
+      "fragmentId":1,
+      "name": "Phyllis Schmidt",
+      "company": "ICterra"
+    },
+    {
+      "id": 6,
+      "fragmentId":1,
+      "name": "Verna Barron",
+      "company": "ICterra"
+    },
+    {
+      "id": 7,
+      "fragmentId":1,
+      "name": "Lula Cannon",
+      "company": "ICterra"
+    },
+    {
+      "id": 8,
+      "fragmentId":1,
+      "name": "Alissa Banks",
+      "company": "ICterra"
+    },
+    {
+      "id": 9,
+      "fragmentId":1,
+      "name": "Dominguez Delacruz",
+      "company": "ICterra"
+    }
+  ]
+}
