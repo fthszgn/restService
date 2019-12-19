@@ -5,60 +5,70 @@
     {
       "id": 0,
       "fragmentId":1,
+      "imageId": 0,
       "name": "Simon Parsons",
       "company": "ICterra"
     },
     {
       "id": 1,
       "fragmentId":1,
+      "imageId": 1,
       "name": "Bessie Rush",
       "company": "ICterra"
     },
     {
       "id": 2,
       "fragmentId":1,
+      "imageId": 2,
       "name": "Gwen Malone",
       "company": "ICterra"
     },
     {
       "id": 3,
       "fragmentId":1,
+      "imageId": 3,
       "name": "Schroeder Bullock",
       "company": "ICterra"
     },
     {
       "id": 4,
       "fragmentId":1,
+      "imageId": 4,
       "name": "Murray Carney",
       "company": "ICterra"
     },
     {
       "id": 5,
       "fragmentId":1,
+      "imageId": 5,
       "name": "Phyllis Schmidt",
       "company": "ICterra"
     },
     {
       "id": 6,
       "fragmentId":1,
+      "imageId": 6,
       "name": "Verna Barron",
       "company": "ICterra"
     },
     {
       "id": 7,
       "fragmentId":1,
+      "imageId": 7,
       "name": "Lula Cannon",
       "company": "ICterra"
     },
     {
       "id": 8,
       "fragmentId":1,
+      "imageId": 8,
       "name": "Alissa Banks",
       "company": "ICterra"
     },
     {
       "id": 9,
       "fragmentId":1,
+      "imageId": 9,
       "name": "Dominguez Delacruz",
       "company": "ICterra"
     }
