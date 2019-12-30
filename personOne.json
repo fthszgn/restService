@@ -14,7 +14,7 @@
       "id": 1,
       "fragmentId":1,
       "imageId": 1,
-      "videoId": 2,
+      "videoId": 4,
       "name": "Bessie Rush",
       "company": "ICterra"
     },
@@ -46,7 +46,7 @@
       "id": 5,
       "fragmentId":1,
       "imageId": 3,
-      "videoId": 1,
+      "videoId": 4,
       "name": "Phyllis Schmidt",
       "company": "ICterra"
     },
@@ -70,7 +70,7 @@
       "id": 8,
       "fragmentId":1,
       "imageId": 3,
-      "videoId": 0,
+      "videoId": 4,
       "name": "Alissa Banks",
       "company": "ICterra"
     },
